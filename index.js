@@ -21,7 +21,7 @@ var johnLennonFacts = facts => {
 return facts;
 }
 
-var iLoveTheBeatles = num => {
+function iLoveTheBeatles(num) {
   var eArray = [];
   do { 
     eArray.push("I love the Beatles!");
