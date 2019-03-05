@@ -4,7 +4,7 @@ function theBeatlesPlay(musicians, instruments) {
     var string = emptyArray.push(musicians[i] + " plays " + instruments[i]);
     
   }
-  return string;
+  return emptyArray;
 }
 
 var facts = ["He was the last Beatle to learn to drive", 
